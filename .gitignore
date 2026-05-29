@@ -1,0 +1,54 @@
+# Environment
+
+.env
+.env.local
+.env.production
+.env.development
+
+# Build Artifacts
+
+bin/
+build/
+dist/
+tmp/
+
+# Go Binaries
+
+app
+synaptica-api
+
+# Test & Coverage
+
+*.test
+*.out
+coverage.out
+coverage.html
+
+# Logs
+
+*.log
+logs/
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# Runtime Files
+
+*.pid
+
+# Secrets
+
+secrets/
+credentials/
