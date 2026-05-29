@@ -14,8 +14,8 @@ tmp/
 
 # Go Binaries
 
-app
-synaptica-api
+/app
+/synaptica-api
 
 # Test & Coverage
 
