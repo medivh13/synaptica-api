@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"synaptica-api/internal/service"
+	"github.com/medivh13/synaptica-api/internal/service"
 )
 
 type fakeHNCommentIngestionService struct {

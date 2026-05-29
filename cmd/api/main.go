@@ -7,8 +7,8 @@ import (
 
 	"github.com/joho/godotenv"
 
-	"synaptica-api/internal/app"
-	"synaptica-api/internal/config"
+	"github.com/medivh13/synaptica-api/internal/app"
+	"github.com/medivh13/synaptica-api/internal/config"
 )
 
 func main() {

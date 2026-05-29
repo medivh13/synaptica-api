@@ -1,4 +1,4 @@
-module synaptica-api
+module github.com/medivh13/synaptica-api
 
 go 1.24.2
 

@@ -4,8 +4,8 @@ import (
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
 
-	"synaptica-api/internal/handler"
-	"synaptica-api/internal/http/route"
+	"github.com/medivh13/synaptica-api/internal/handler"
+	"github.com/medivh13/synaptica-api/internal/http/route"
 )
 
 type RouterDependencies struct {

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"synaptica-api/internal/model"
+	"github.com/medivh13/synaptica-api/internal/model"
 )
 
 type DashboardService interface {

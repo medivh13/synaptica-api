@@ -6,7 +6,7 @@ import (
 	stdhttp "net/http"
 	"strconv"
 
-	"synaptica-api/internal/service"
+	"github.com/medivh13/synaptica-api/internal/service"
 )
 
 type HackerNewsIngestionHandler struct {

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	"synaptica-api/internal/analyzer"
-	"synaptica-api/internal/model"
-	"synaptica-api/internal/repository"
+	"github.com/medivh13/synaptica-api/internal/analyzer"
+	"github.com/medivh13/synaptica-api/internal/model"
+	"github.com/medivh13/synaptica-api/internal/repository"
 )
 
 type PostAnalysisService interface {

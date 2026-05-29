@@ -4,7 +4,7 @@ import (
 	"log"
 	stdhttp "net/http"
 
-	"synaptica-api/internal/repository"
+	"github.com/medivh13/synaptica-api/internal/repository"
 )
 
 type SubredditHandler struct {

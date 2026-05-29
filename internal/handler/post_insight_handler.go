@@ -7,7 +7,7 @@ import (
 
 	"github.com/go-chi/chi/v5"
 
-	"synaptica-api/internal/service"
+	"github.com/medivh13/synaptica-api/internal/service"
 )
 
 type PostInsightHandler struct {

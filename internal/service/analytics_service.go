@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"synaptica-api/internal/model"
-	"synaptica-api/internal/repository"
+	"github.com/medivh13/synaptica-api/internal/model"
+	"github.com/medivh13/synaptica-api/internal/repository"
 )
 
 type AnalyticsService interface {

@@ -7,7 +7,7 @@ import (
 
 	"github.com/jmoiron/sqlx"
 
-	"synaptica-api/internal/model"
+	"github.com/medivh13/synaptica-api/internal/model"
 )
 
 type AnalysisRepository interface {

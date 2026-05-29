@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"synaptica-api/internal/client/reddit"
-	"synaptica-api/internal/model"
-	"synaptica-api/internal/repository"
+	"github.com/medivh13/synaptica-api/internal/client/reddit"
+	"github.com/medivh13/synaptica-api/internal/model"
+	"github.com/medivh13/synaptica-api/internal/repository"
 )
 
 var (

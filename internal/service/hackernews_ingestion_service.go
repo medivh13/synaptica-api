@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	"synaptica-api/internal/client/hackernews"
-	"synaptica-api/internal/model"
-	"synaptica-api/internal/repository"
+	"github.com/medivh13/synaptica-api/internal/client/hackernews"
+	"github.com/medivh13/synaptica-api/internal/model"
+	"github.com/medivh13/synaptica-api/internal/repository"
 )
 
 type HackerNewsIngestionService interface {

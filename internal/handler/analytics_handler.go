@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"synaptica-api/internal/service"
+	"github.com/medivh13/synaptica-api/internal/service"
 )
 
 const (
